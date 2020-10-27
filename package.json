@@ -28,7 +28,7 @@
   "dependencies": {
     "passport-strategy": "*",
     "q": "^1.5.0",
-    "xml-crypto": "^0.10.1",
+    "xml-crypto": "^2.0.0",
     "xml-encryption": "^0.11.0",
     "xml2js": "0.4.x",
     "xmlbuilder": "^9.0.4",
